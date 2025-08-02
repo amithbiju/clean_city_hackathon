@@ -35,7 +35,7 @@ GreenSpark is a community-driven platform designed to combat urban waste issues 
 
 ## 🎥 Demo Video
 
-[![Watch Demo](https://i3.ytimg.com/vi/ieMwdg-jU1I/maxresdefault.jpg)](https://youtu.be/ieMwdg-jU1I)
+[![Watch Demo](https://i3.ytimg.com/vi/7aVqbELYpm8/maxresdefault.jpg)](https://youtu.be/7aVqbELYpm8)
 
 ## Screenshot
 
