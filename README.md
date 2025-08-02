@@ -35,4 +35,19 @@ GreenSpark is a community-driven platform designed to combat urban waste issues 
 
 ## Screenshot
 
-![Screenshot](./assets/Screenshot(1112).png)
+![Screenshot](<./assets/Screenshot(1112).png>)
+![Screenshot](<./assets/Screenshot(1114).png>)
+![Screenshot](<./assets/Screenshot(1115).png>)
+![Screenshot](<./assets/Screenshot(1116).png>)
+![Screenshot](<./assets/Screenshot(1117).png>)
+![Screenshot](<./assets/Screenshot(1118).png>)
+![Screenshot](<./assets/Screenshot(1119).png>)
+![Screenshot](<./assets/Screenshot(1120).png>)
+![Screenshot](<./assets/Screenshot(1121).png>)
+![Screenshot](<./assets/Screenshot(1122).png>)
+![Screenshot](<./assets/Screenshot(1123).png>)
+![Screenshot](<./assets/Screenshot(1124).png>)
+![Screenshot](<./assets/Screenshot(1125).png>)
+![Screenshot](<./assets/Screenshot(1126).png>)
+![Screenshot](<./assets/Screenshot(1127).png>)
+![Screenshot](<./assets/Screenshot(1128).png>)
