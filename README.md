@@ -33,12 +33,9 @@ GreenSpark is a community-driven platform designed to combat urban waste issues 
 - **Abhijith PV** – Admin Dashboard, Analytics & Insights, Firebase Integration
 - **Riya Mary Sajan** – UI/UX Design, Responsive Layout, Auth System
 
-## Demo Video
+## 🎥 Demo Video
 
-<iframe width="560" height="315" 
-src="https://youtu.be/ieMwdg-jU1I" 
-title="YouTube video player" 
-frameborder="0" allowfullscreen></iframe>
+[![Watch Demo](https://i3.ytimg.com/vi/ieMwdg-jU1I/maxresdefault.jpg)](https://youtu.be/ieMwdg-jU1I)
 
 ## Screenshot
 
