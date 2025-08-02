@@ -24,7 +24,7 @@ GreenSpark is a community-driven platform designed to combat urban waste issues 
 
 <!-- Paste your public repo link here -->
 
-[GitHub Repo](https://github.com/your-username/greenspark)
+[GitHub Repo](https://github.com/amithbiju/clean_city_hackathon)
 
 ## Team Members & Roles
 
@@ -32,6 +32,13 @@ GreenSpark is a community-driven platform designed to combat urban waste issues 
 - **Amith Biju** – Backend Services, Image Upload System, Location APIs
 - **Abhijith PV** – Admin Dashboard, Analytics & Insights, Firebase Integration
 - **Riya Mary Sajan** – UI/UX Design, Responsive Layout, Auth System
+
+## Demo Video
+
+<iframe width="560" height="315" 
+src="https://youtu.be/ieMwdg-jU1I" 
+title="YouTube video player" 
+frameborder="0" allowfullscreen></iframe>
 
 ## Screenshot
 
